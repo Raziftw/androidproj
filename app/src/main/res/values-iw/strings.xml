@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ארבע זה עשר</string>
+    <string name="reset_button">רענן</string>
+    <string name="check_button">בדוק</string>
+    <string name="hint_button">רמז</string>
+    <string name="level">שלב</string>
+    <string name="passed">הושלם</string>
+    <string name="new_game">משחק חדש</string>
+    <string name="how_to_play">הוראות משחק</string>
+    <string name="levels">שלבים</string>
+    <string name="about">על היוצרים</string>
+    <string name="continue_the_game">המשך</string>
+    <string name="how_to_play_text">
+    <![CDATA[
+    הוראות משחק<br/><br/>
+
+    יש לך 4 מספרים<br/>
+    והמטרה היא לקבל ביטוי שהתוצאה שלו שווה ל-10.<br/>
+    הקש על אופרטורים +-/x)( והכנס אותם בין המספרים<br/>
+    ניתן גם לשנות סדר של המספרים על ידי לחיצה עליהם
+    ]]>
+    </string>
+    <string name="about_text">
+    <![CDATA[
+    על היוצרים<br/><br/>
+
+    פיתוח ועיצוב:<br/>
+    מקסים בלאוס<br/>
+    רזי עלי סאלח<br/>
+    שרית צקול<br/>
+
+    Inspired by a "4=10" game
+    ]]>
+    </string>
+    <string name="close">סגור</string>
+    <string name="contact">צור קשר</string>
+</resources>

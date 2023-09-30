@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Four is Ten</string>
+    <string name="reset_button">Reset</string>
+    <string name="check_button">Check</string>
+    <string name="hint_button">Hint</string>
+    <string name="level">level</string>
+    <string name="passed">Passed</string>
+    <string name="new_game">New Game</string>
+    <string name="continue_the_game">Continue</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="levels">Levels</string>
+    <string name="about">About</string>
+    <string name="how_to_play_text">
+    <![CDATA[
+    How To Play<br/><br/>
+
+    You get 4 numbers<br/>
+    and the goal is to make the result equal 10.<br/>
+    Simply tap available operators + - x / ( ) between all the numbers.<br/>
+    You can also reorder and swap the digits by moving them around.
+    ]]>
+    </string>
+    <string name="about_text">
+    <![CDATA[
+    About<br/><br/>
+
+    Design and programming:<br/>
+    Maksim Belavus<br/>
+    Razi Ali Saleh<br/>
+    Sarit Chekol<br/>
+
+    Inspired by a "4=10" game
+    ]]>
+    </string>
+    <string name="close">Close</string>
+    <string name="contact">Contact</string>
+</resources>

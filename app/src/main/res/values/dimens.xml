@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="operationPlaceTextViewMargin">5dp</dimen>
+    <dimen name="operationsMargin">4dp</dimen>
+    <dimen name="operationsTextSize">70sp</dimen>
+    <dimen name="cardViewOperationCornerRad">8dp</dimen>
+    <dimen name="textViewOperationMargin">4dp</dimen>
+    <dimen name="operationPlaceTextSize">24sp</dimen>
+    <dimen name="operationPlaceCardViewMargin">4dp</dimen>
+</resources>
